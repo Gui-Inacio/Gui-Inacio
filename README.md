@@ -25,6 +25,6 @@ A cada dia, procuro progredir e aprimorar minhas habilidades, avançando um pass
 
 ## Contato
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-inácio-758525176/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-inacio99/)
 <p> <b> Email: <i> gui-inacio-2010@hotmail.com </b> </i> </p>
 
